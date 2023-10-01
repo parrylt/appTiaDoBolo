@@ -6,15 +6,11 @@ ps: as imagens de bolo não são minhas e os textos com preço, nome do bolo e d
 <br>
 
 <div align="center">
-  <img src="Imagens do APP/1.png"> <img src="Imagens do APP/2.png">
+  <img src="Imagens do APP/1.png"> <img src="Imagens do APP/2.png"><img src="Imagens do APP/3.png">
 </div>
 <br><br>
 <div align="center">
-  <img src="Imagens do APP/3.png"><img src="Imagens do APP/4.png">
-</div>
-<br><br>
-<div align="center">
-  <img src="Imagens do APP/5.png"> <img src="Imagens do APP/6.png">
+  <img src="Imagens do APP/4.png"><img src="Imagens do APP/5.png"> <img src="Imagens do APP/6.png">
 </div>
 <br><br>
 <div align="center">
