@@ -20,3 +20,5 @@ ps: as imagens de bolo não são minhas e os textos com preço, nome do bolo e d
 <div align="center">
   <img src="Imagens do APP/9.png"> <img src="Imagens do APP/10.png">
 </div>
+<br>
+Aqui o link do snack: https://snack.expo.dev/@romulojr/appbolos
